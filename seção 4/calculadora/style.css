@@ -1,0 +1,25 @@
+body{
+    background-color: blue;
+}
+form button:hover{
+    background: var(--primary-color-darker);
+}
+.calculadora{
+    width: 400px;
+}
+
+.display{
+    font-size: 2em ;
+    width: 100%;
+    text-align: right;
+}
+.btn{
+    width: 50px;
+    height: 50px;
+    font-size: 3em;
+    background-color: #dfdfdf;
+    text-align: center;
+}
+.btn:hover{
+    background-color: rgb(255, 255, 255);
+}
